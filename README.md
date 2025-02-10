@@ -3,7 +3,7 @@
 ## Overview
 This repository contains the **data analysis scripts and resources** for the study on antimicrobial resistance (AMR) and extended-spectrum beta-lactamase-producing Enterobacteriaceae (BSLE) in relation to human-wildlife interactions. The study investigates the prevalence of **multidrug resistance (MDR) and BSLE carriage** and evaluates key risk factors such as socio-demographic factors and wild animal consumption.
 
-The analysis follows **reproducible research principles** using Python for data processing, statistical modeling, and visualization.
+The analysis includedata processing, statistical modeling, and visualization usin R and python.
 
 
 
